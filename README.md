@@ -2,25 +2,17 @@
 
 ### Hi there 👋
 
-<!--ashishsaranshakya/ashishsaranshakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 You can find me here :
 <p align="left">
   <a href="https://www.linkedin.com/in/ashish-saran-shakya-3a223b19b/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:harshshakya18585@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:kapoorishan05@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
   
 
 ## About Me
-Hi, I am Ashish
+Hi, I am Ishan
 - I am an undergraduate from India pursuing Bachelor's in Computer Science.
-- I recently participated in a mobile application development competition focused sustainability and made <a href="https://github.com/ashishsaranshakya/Waste-Management">WasteLess</a> and app for Sustainable Waste Management
-- I contribute to an open source android application <a href="https://github.com/therealsujitk/android-vtop-chennai">VIT Student</a>, an application made for students of my college.
-- I’m currently working on <a href="https://github.com/ashishsaranshakya/Battery-Manager">Battery Manager</a> (Hobby Project)
-- I’m currently learning node.js and React.js
-- I’m looking to collaborate on Android projects
-<!--- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...-->
+
 
 
 <table> 
@@ -36,6 +28,3 @@ Hi, I am Ashish
       </p>
   </tr>
 </table>
-
-
-[![Ashish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IshanKapoor12&theme=github)](https://github.com/IshanKapoor12)
