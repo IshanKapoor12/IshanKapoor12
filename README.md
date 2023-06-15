@@ -1,10 +1,7 @@
-![Mast Head](https://user-images.githubusercontent.com/74979286/198380669-a89c3420-8000-4510-8628-4fbbc23cb5eb.png)
-
 ### Hi there 👋
 
 You can find me here :
 <p align="left">
-  <a href="https://www.linkedin.com/in/ashish-saran-shakya-3a223b19b/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kapoorishan05@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
   
