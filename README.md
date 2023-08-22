@@ -56,7 +56,7 @@ Hi, I am Ishan
 <table> 
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=IshanKapoor12&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsaranshakya&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block height=190 align="center" alt="2"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanKapoor12&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block height=190 align="center" alt="2"></td>
    </tr>
   <tr>
     <td colspan="2">
